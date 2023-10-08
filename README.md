@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-using-css-flexbox-633rjmpkV1) 
-- Live Site URL: [Add live site URL here](https://obaloluwaobi.github.io/frontend-mentor-sigup-form/?email-stored=)
+- Solution URL: (https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-using-css-flexbox-633rjmpkV1) 
+- Live Site URL: [Add live site URL here](https://obaloluwaobi.github.io/frontend-mentor-sigup-form/?email-stored=#)
 
 ## My process
 
