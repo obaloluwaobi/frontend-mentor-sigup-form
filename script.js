@@ -1,5 +1,3 @@
-
-
 function loginPage() {
   const email = document.querySelector('#email').value;
 
